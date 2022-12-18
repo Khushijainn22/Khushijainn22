@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khushi Jain</h1>
-<h3 align="center"><A passionate backend developer from India with strong foundation in Java></h3>
-
 - 🌱 I’m currently learning **React.js & Node.js**
 
 - 📫 How to reach me **khushij2210@gmail.com**
