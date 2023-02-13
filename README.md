@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **khushij2210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gScUsGg8fo5sqBTfoLVKCkXssLu2Cf-1/view?usp=share_link](https://drive.google.com/file/d/1gScUsGg8fo5sqBTfoLVKCkXssLu2Cf-1/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gScUsGg8fo5sqBTfoLVKCkXssLu2Cf-1/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
