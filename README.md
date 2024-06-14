@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Jain</h1>
 -  A passionate backend developer with strong foundation in Java.
 
-- 🌱 I’m currently learning **React.js & Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **khushij2210@gmail.com**
 
