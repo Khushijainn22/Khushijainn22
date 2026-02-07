@@ -30,9 +30,6 @@ I enjoy owning products end-to-end — from ideation and system design to develo
 - **Smart Money & Lifestyle Companion**  
   Developed a personal finance decision-support system that tracks income, expenses, and subscriptions, helping users decide when to save, invest, or spend guilt-free through alerts and behavioral insights.
 
-- **Human Resources Management System (MERN)**  
-  Production-grade HRMS with secure authentication, RBAC, audit logs, and performance-optimized backend architecture supporting real organizational workflows.
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -71,4 +68,4 @@ I enjoy owning products end-to-end — from ideation and system design to develo
 ### 📫 Contact
 - Email: **khushij2210@gmail.com**
 - Resume:  
-  <a href="[https://drive.google.com/file/d/1gScUsGg8fo5sqBTfoLVKCkXssLu2Cf-1/view](https://drive.google.com/file/d/1PbvXTQ_f_XWz3EAE3oR0dhPlS2Tmgq9e/view?usp=sharing)" target="_blank">View Resume</a>
+  <a href="https://drive.google.com/file/d/1PbvXTQ_f_XWz3EAE3oR0dhPlS2Tmgq9e/view?usp=sharing" target="_blank">View Resume</a>
