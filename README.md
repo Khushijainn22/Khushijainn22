@@ -68,4 +68,4 @@ I enjoy owning products end-to-end — from ideation and system design to develo
 ### 📫 Contact
 - Email: **khushij2210@gmail.com**
 - Resume:  
-  <a href="https://drive.google.com/file/d/1PbvXTQ_f_XWz3EAE3oR0dhPlS2Tmgq9e/view?usp=sharing" target="_blank">View Resume</a>
+  <a href="https://drive.google.com/file/d/1MCXVqmY6nDBTWmojj2fv0ohRUu6wnIOB/view?usp=drive_link" target="_blank">View Resume</a>
